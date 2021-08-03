@@ -1,2 +1,2 @@
 # bogaziciseciyorpublic
-BÜ secim araclari kodlari ilk versiyonlari.  
+BÜ secim araclari acik kodlaridir. Gizlilik nedeniyle sifreleme anahtarlari birebir ayni olmayabilir.
